@@ -1,6 +1,10 @@
 # 💫 About Me:
 Desenvolvedor WEB | Laravel
 
+Atualmente Discente do Curso de "_Bacharelado em Ciência da Computação_" Universidade Federal do Oeste do Pará (UFOPA).
+Trabalhando como desenvolvedor WEB, com foco no _Framework_ Laravel 9 mas com grande interesse na área de _Frontend_ utilizando tecnologias
+como _Javascript_, Vue.js e React.js
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/octa.rx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Octacílio C. Almeida) 
