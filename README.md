@@ -1,4 +1,4 @@
-# 💫 Um pouco sobre mim:
+# 💫 Sobre:
 Desenvolvedor WEB | Laravel
 
 Atualmente Discente do Curso de "_Bacharelado em Ciência da Computação_" Universidade Federal do Oeste do Pará (UFOPA).
